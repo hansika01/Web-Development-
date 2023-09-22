@@ -1,0 +1,30 @@
+.webform
+{
+    border: 2px solid skyblue;
+    border-radius: 25px;
+    padding: 50px;
+    margin: 40px;
+    width: 790px;
+    height: 800px;
+}
+.head
+{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+.text
+{
+    font-size: 50px;
+    
+}
+.label
+{
+    width:150px;
+    display: inline-block;
+}
+.l
+{
+    position: relative; left:150px
+}
